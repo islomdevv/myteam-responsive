@@ -22,10 +22,6 @@
 
 }
 
-select {
-    display: none;
-}
-
 .hero {
     margin-top: 100px;
     display: flex;
@@ -48,4 +44,8 @@ select {
 .hero__img2 {
     margin-bottom: -140px;
     margin-left: -360px;
+}
+
+select {
+    display: none;
 }
