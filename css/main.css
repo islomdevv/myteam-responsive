@@ -84,7 +84,7 @@ select {
   display: none;
 }
 
-@media (max-width: 490px) {
+@media (max-width: 390px) {
   .header__logo {
     margin-top: -80px;
   }
@@ -125,7 +125,7 @@ select {
     border: 2px solid #fff;
     padding: 4px 6px;
     border-radius: 5px;
-    background-color: blue;
+    background-color: #014E56;
     color: #fff;
     font-family: sans-serif;
   }
